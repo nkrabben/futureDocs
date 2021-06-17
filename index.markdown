@@ -17,5 +17,4 @@ This page documents processes in Nick's digarch lab, including:
 3. file transfers
 4. batch processing
 
-Inline-style: 
-![alt text](https://wiki.dpconline.org/images/thumb/7/71/Figure_4-8_OAIS_Data_Flow_Diagram_650x0m2.jpg/500px-Figure_4-8_OAIS_Data_Flow_Diagram_650x0m2.jpg "OAIS")
+![MAX OAIS](https://wiki.dpconline.org/images/e/e6/Oaisfull_v3_labels_bw.png "OAIS")
