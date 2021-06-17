@@ -18,4 +18,4 @@ This page documents processes in Nick's digarch lab, including:
 4. batch processing
 
 Inline-style: 
-![alt text](https://commons.wikimedia.org/wiki/File:Schema_fonctionnel_modele_oais.jpg "OAIS")
+![alt text](https://wiki.dpconline.org/images/thumb/7/71/Figure_4-8_OAIS_Data_Flow_Diagram_650x0m2.jpg/500px-Figure_4-8_OAIS_Data_Flow_Diagram_650x0m2.jpg "OAIS")
